@@ -1,6 +1,3 @@
-# Instruções
-- Faça uma cópia deste arquivo .md para um repositório próprio
-- Resolva as 8 questões objetivas assinalando a alternativa correta e **justificando sua resposta.**
 
 # Questões objetivas
 **1) Considerando a execução do código abaixo, indique a alternativa correta e justifique sua resposta.**
